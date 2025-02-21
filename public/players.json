@@ -1,0 +1,110 @@
+[
+  {
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_640/lsci/db/PICTURES/CMS/361100/361170.jpg",
+    "country": "India",
+    "name": "Virat Kohli",
+    "designation": "Batsman",
+    "rating": 95,
+    "style": "Right-Hand",
+    "price": 150
+  },
+  {
+    "image": "https://media.gettyimages.com/id/1160440588/photo/manchester-england-david-warner-of-australia-celebrates-his-century-during-the-group-stage.jpg?s=612x612&w=0&k=20&c=l329S3-dB-7_tnCT3D4gO9VTR8Q600arrS5DDfHV_s8=",
+    "country": "Australia",
+    "name": "David Warner",
+    "designation": "Batsman",
+    "rating": 90,
+    "style": "Left-Hand",
+    "price": 150
+  },
+  {
+    "image": "https://media.gettyimages.com/id/1409776304/photo/chester-le-street-england-england-batsman-ben-stokes-acknowledges-the-applause-as-he-leaves.jpg?s=612x612&w=0&k=20&c=hjPgXz3WkM_hDG9ZEgCk5sYzAMutdZwAQOuIyWjt9lw=",
+    "country": "England",
+    "name": "Ben Stokes",
+    "designation": "All-Rounder",
+    "rating": 92,
+    "style": "Left-Hand",
+    "price": 150
+  },
+  {
+    "image": "https://media.gettyimages.com/id/2156775068/photo/new-york-new-york-babar-azam-of-pakistan-looks-on-during-the-warm-up-prior-to-the-icc-mens.jpg?s=612x612&w=0&k=20&c=Tq2_qBA-y3NmmBcLCaiZdvWOXuC76fyeBwW9YMdtvpo=",
+    "country": "Pakistan",
+    "name": "Babar Azam",
+    "designation": "Batsman",
+    "rating": 94,
+    "style": "Right-Hand",
+    "price": 150
+  },
+  {
+    "image": "https://media.gettyimages.com/id/1748467996/photo/mumbai-india-kagiso-rabada-of-south-africa-celebrates-the-wicket-of-ben-stokes-of-england.jpg?s=612x612&w=0&k=20&c=szKPl-V9tx8erphLX6LgCnQgCXJBRZVy88bfWYrm1mk=",
+    "country": "South Africa",
+    "name": "Kagiso Rabada",
+    "designation": "Bowler",
+    "rating": 89,
+    "style": "Right-Hand",
+    "price": 150
+  },
+  {
+    "image": "https://media.gettyimages.com/id/1989265995/photo/mount-maunganui-new-zealand-kane-williamson-of-new-zealand-raises-his-bat-after-scoring-a.jpg?s=612x612&w=0&k=20&c=uB5Ud3B2RgO-rhjjNvHCfyc1zJ5KWXcCk1uqdmmME7I=",
+    "country": "New Zealand",
+    "name": "Kane Williamson",
+    "designation": "Batsman",
+    "rating": 93,
+    "style": "Right-Hand",
+    "price": 150
+  },
+  {
+    "image": "https://media.gettyimages.com/id/1253164835/photo/topshot-kolkata-knight-riders-andre-russell-plays-a-shot-during-the-indian-premier-league.jpg?s=612x612&w=gi&k=20&c=ZKCr842xU2AtFp8KLX_04Bz9cWewYMn8VX_MIoff8p8=",
+    "country": "West Indies",
+    "name": "Andre Russell",
+    "designation": "All-Rounder",
+    "rating": 88,
+    "style": "Right-Hand",
+    "price": 150
+  },
+  {
+    "image": "https://media.gettyimages.com/id/1148666576/photo/hyderabad-india-lasith-malinga-of-the-mumbai-indians-celebrates-taking-the-last-wicket-to.jpg?s=612x612&w=0&k=20&c=15z3wCwZtkkDmk1ocGYzOojrQtVkGIOcRFGBsHLxixg=",
+    "country": "Sri Lanka",
+    "name": "Lasith Malinga",
+    "designation": "Bowler",
+    "rating": 85,
+    "style": "Right-Hand",
+    "price": 150
+  },
+  {
+    "image": "https://media.gettyimages.com/id/1778096899/photo/delhi-india-shakib-al-hasan-of-bangladesh-and-match-umpire-marais-erasmus-interact-during-the.jpg?s=612x612&w=0&k=20&c=yj6l5wdSoHg_02KPD1U0lyxWyIl1dd_eawJ3zgeUviU=",
+    "country": "Bangladesh",
+    "name": "Shakib Al Hasan",
+    "designation": "All-Rounder",
+    "rating": 91,
+    "style": "Left-Hand",
+    "price": 150
+  },
+  {
+    "image": "https://media.gettyimages.com/id/2121041114/photo/topshot-gujarat-titans-rashid-khan-celebrates-after-the-dismissal-of-sunrisers-hyderabads.jpg?s=612x612&w=gi&k=20&c=JaCyfEdJOqRdsPplFPZX-P3SSvR-I67Zo9TJObHPhLs=",
+    "country": "Afghanistan",
+    "name": "Rashid Khan",
+    "designation": "Bowler",
+    "rating": 90,
+    "style": "Right-Hand",
+    "price": 150
+  },
+  {
+    "image": "https://media.gettyimages.com/id/1802478089/photo/ahmedabad-india-rohit-sharma-of-india-cuts-a-dejected-figures-following-the-icc-mens-cricket.jpg?s=612x612&w=0&k=20&c=X4vLjzkwiqhqtyvvQAlkTE-q-jcaxCKHlbePd-QSp-s=",
+    "country": "India",
+    "name": "Rohit Sharma",
+    "designation": "Batsman",
+    "rating": 92,
+    "style": "Right-Hand",
+    "price": 150
+  },
+  {
+    "image": "https://media.gettyimages.com/id/2158799630/photo/st-vincent-saint-vincent-and-the-grenadines-pat-cummins-of-australia-celebrates-after.jpg?s=612x612&w=0&k=20&c=jij_m3GtfsZ_uaAVks_0vVd6a8zBfYsdLMLtmsd0ZZc=",
+    "country": "Australia",
+    "name": "Pat Cummins",
+    "designation": "Bowler",
+    "rating": 87,
+    "style": "Right-Hand",
+    "price": 150
+  }
+]
